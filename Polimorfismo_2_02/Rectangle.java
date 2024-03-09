@@ -1,4 +1,4 @@
-package Polimorfismo202;
+package Polimorfismo_2_02;
 
 
 public class Rectangle extends Shape {

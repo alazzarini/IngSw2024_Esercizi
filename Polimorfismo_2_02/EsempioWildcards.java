@@ -1,9 +1,9 @@
-package Polimorfismo202;
+package Polimorfismo_2_02;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static Polimorfismo202.Canvas.arrayToList;
+import static Polimorfismo_2_02.Canvas.arrayToList;
 
 public class EsempioWildcards {
 
